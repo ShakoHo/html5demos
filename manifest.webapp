@@ -2,7 +2,7 @@
   "version": "1.0",
   "name": "Record",
   "description": "app cache",
-  "launch_path": "/html5demo/index.php",
+  "launch_path": "/html5demos/index.php",
   "developer": {
     "name": "The Gaia Team",
     "url": "https://github.com/mozilla-b2g/gaia"
